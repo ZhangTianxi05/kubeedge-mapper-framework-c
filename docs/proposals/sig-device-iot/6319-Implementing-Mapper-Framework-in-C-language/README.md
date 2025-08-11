@@ -8,7 +8,7 @@ approvers:
   - "@Shelley-BaoYue"
   - "@zhijiayang"
 creation-date: 2025-07-04
-last-updated: 2025-07-04
+last-updated: 2025-08-12
 ---
 
 # Implementing Mapper Framework in C language
